@@ -1,5 +1,5 @@
 
-# EnglishCurriculum 
+# EnglishCurriculum  📖
 
 ## Description
 The english curriculum where english learning became a fun and a skill. 📚
